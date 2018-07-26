@@ -3,3 +3,12 @@
 ################################################################################
 
 /UP.Practice.Core.API/UP.Practice.Core.API/obj
+/UP.Practice.Core.API/obj
+/UP.Practice.Core.API/.vs
+/UP.Practice.Core.API/UP.Practice.Core.API/bin/Debug/netcoreapp2.0
+/UP.Practice.Core.API/UP.Practice.Core.Console/obj
+/UP.Practice.Core.API.Client/obj
+/UP.Practice.Core.Web/.vs
+/UP.Practice.Core.Web/obj/Docker
+/UP.Practice.Core.Web/UP.Practice.Core.Web/bin/Debug/netcoreapp2.0
+/UP.Practice.Core.Web/UP.Practice.Core.Web/obj

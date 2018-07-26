@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  up.practice.core.web:
+    image: up.practice.core.web
+    build:
+      context: .
+      dockerfile: UP.Practice.Core.Web\Dockerfile
